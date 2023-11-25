@@ -4,15 +4,15 @@
 <div align="center">
   <img aling="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
 </div>
-
+<hr/>
 <div>
-  - 🔭 I’m currently working on [EasyCash Project](https://github.com/firatbezir/EasyCashIdentityProject)
+- 🔭 I’m currently working on [EasyCash Project](https://github.com/firatbezir/EasyCashIdentityProject)
 
 - 👯 I’m collaborating on [Openverse](https://github.com/firatbezir/openverse)
 
 - 📫 You can reach me on **firatbezir@outlook.com**
 </div>
-
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
