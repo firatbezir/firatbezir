@@ -1,19 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Firat</h1>
 <h3 align="center">Full-Stack .NET Developer</h3>
 <p align="center">
-  <img alt="Coding" width="600" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
+  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
 </p>
-<p align="center">
+
+<div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=firatbezir&" alt="firatbezir" />
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firatbezir&show_icons=true&locale=en&layout=compact" alt="firatbezir" />
   <img src="https://github-readme-stats.vercel.app/api?username=firatbezir&show_icons=true&locale=en" alt="firatbezir" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firatbezir&show_icons=true&locale=en&layout=compact" alt="firatbezir" />  
 </div>
-<br/>
 <hr/>
 
 - 🔭 I’m currently working on [EasyCash Project](https://github.com/firatbezir/EasyCashIdentityProject)
@@ -21,7 +16,6 @@
 - 👯 I’m collaborating on [Openverse](https://github.com/firatbezir/openverse)
 
 - 📫 You can reach me on **firatbezir@outlook.com**
-<br/>
 <hr/>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +23,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/firatbezir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firatbezir/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mychautauqua8220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mychautauqua8220" height="30" width="40" /></a>
 </p>
-<br/>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
