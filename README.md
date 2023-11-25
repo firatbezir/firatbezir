@@ -6,11 +6,9 @@
 </div>
 <hr/>
 <div>
-- 🔭 I’m currently working on [EasyCash Project](https://github.com/firatbezir/EasyCashIdentityProject)
-
-- 👯 I’m collaborating on [Openverse](https://github.com/firatbezir/openverse)
-
-- 📫 You can reach me on **firatbezir@outlook.com**
+🔭 I’m currently working on [EasyCash Project](https://github.com/firatbezir/EasyCashIdentityProject)
+👯 I’m collaborating on [Openverse](https://github.com/firatbezir/openverse)
+📫 You can reach me on **firatbezir@outlook.com**
 </div>
 <hr/>
 
