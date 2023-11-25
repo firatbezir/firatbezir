@@ -1,12 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Firat</h1>
 <h3 align="center">Full-Stack .NET Developer</h3>
-<img aling="right" alt="Coding" width="600" aligne-item="center" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
-<hr/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firatbezir&" alt="firatbezir" /></p>
+<p align="center">
+  <img alt="Coding" width="600" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firatbezir&" alt="firatbezir" />
+</p>
+
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firatbezir&show_icons=true&locale=en&layout=compact" alt="firatbezir" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firatbezir&show_icons=true&locale=en" alt="firatbezir" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firatbezir&show_icons=true&locale=en&layout=compact" alt="firatbezir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=firatbezir&show_icons=true&locale=en" alt="firatbezir" />
+</div>
 <br/>
 <hr/>
 
