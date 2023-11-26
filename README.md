@@ -43,9 +43,9 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 <a href="https://github.com/firatbezir">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatbezir&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
-
+<br>
 <p align="center"> 
-  Visitor count<br>
+  ### Technologies<br>
   <a href="[https://github.com/firatbezir]">
     <img src="https://profile-counter.glitch.me/firatbezir/count.svg" />
   </a>
