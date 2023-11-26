@@ -10,7 +10,7 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 
 
 ### Languages
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python-yellow)](https://ra1nbow.xyz?ref=github)
+[![Python](https://img.shields.io/badge/-Python-E3CF57?&logo=Python)](https://ra1nbow.xyz?ref=github)
 [![C#](https://img.shields.io/badge/-C%23-000?&logo=C%20Sharp&logoColor=239120)](https://ra1nbow.xyz?ref=github)
 [![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab&logoColor=0076A8)](https://ra1nbow.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://ra1nbow.xyz?ref=github)
