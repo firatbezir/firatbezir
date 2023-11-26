@@ -28,13 +28,13 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 
 ### Other
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://github.com/firatbezir)
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-HTML-F0FFFF?&logo=html5)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-CSS-F0FFFF?&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-Bootstrap-F0FFFF?&logo=Bootstrap)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-Sass-F0FFFF?&logo=sass&logoColor=CC6699)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-Git-F0FFFF?&logo=Git)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-Docker-F0FFFF?&logo=Docker)](https://github.com/firatbezir)
+[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
 
 
 <a href="https://github.com/firatbezir">
