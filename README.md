@@ -19,11 +19,11 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 ### Technologies
 
 [![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-E0EEEE?&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-FFF8DC?&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-React-000?&logo=React)](https://github.com/firatbezir)
-[![Ajax](https://img.shields.io/badge/-Ajax-000?&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
+[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-jQuery-FFF8DC?&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
+[![](https://img.shields.io/badge/-React-FFF8DC?&logo=React)](https://github.com/firatbezir)
+[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
 
 
 ### Other
