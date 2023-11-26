@@ -10,11 +10,11 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 
 
 ### Languages
-[![Python](https://img.shields.io/badge/-Python-E3CF57?&logo=Python)](https://github.com/firatbezir)
+[![Python](https://img.shields.io/badge/-Python-F0FFFF?&logo=Python)](https://github.com/firatbezir)
 [![C#](https://img.shields.io/badge/-C%23-8A2BE2?&logo=C%20Sharp&logoColor=239120)](https://github.com/firatbezir)
 [![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?&logo=Matlab&logoColor=0076A8)](https://github.com/firatbezir)
 [![SQL](https://img.shields.io/badge/-SQL-FFB90F?&logo=MySQL)](https://github.com/firatbezir)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?&logo=JavaScript)](https://github.com/firatbezir)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Technologies
 
