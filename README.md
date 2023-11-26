@@ -2,7 +2,7 @@
 
 I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey.
 
-[![](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/firatbezir)
+[![](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/firatbezir)
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/1120715711820603392)
 [![](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
 [![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)]([https://www.reddit.com/user/Ra1nbow1](https://www.reddit.com/user/greemLeaf))
