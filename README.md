@@ -45,7 +45,8 @@ I'm Firat, a professional **self learner** Full Stack .NET developer from Turkey
 </a>
 <br>
 <p align="center"> 
-  ### Technologies<br>
+  <strong>Visitor Count</strong>
+<br>
   <a href="[https://github.com/firatbezir]">
     <img src="https://profile-counter.glitch.me/firatbezir/count.svg" />
   </a>
