@@ -13,7 +13,7 @@ I'm Firat, a professional -**self learner**- Full Stack .NET developer from Turk
 [![Python](https://img.shields.io/badge/-Python-e6e321?&logo=Python)](https://github.com/firatbezir)
 [![C#](https://img.shields.io/badge/-C%23-8A2BE2?&logo=C%20Sharp&logoColor=239120)](https://github.com/firatbezir)
 [![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?&logo=Matlab&logoColor=0076A8)](https://github.com/firatbezir)
-[![SQL](https://img.shields.io/badge/-SQL-218be6?&logo=MySQL)](https://github.com/firatbezir)
+[![SQL](https://img.shields.io/badge/-SQL-218be6?&logo=MySQL&logoColor=eb8f3e)](https://github.com/firatbezir)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
