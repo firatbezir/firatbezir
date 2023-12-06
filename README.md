@@ -1,8 +1,9 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <h2>Hi there!</h2>
+  <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
   <p>I'm Firat, Full Stack Web Developer :computer:</p>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
 </div>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
