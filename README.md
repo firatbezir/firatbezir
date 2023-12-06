@@ -5,7 +5,7 @@
     </h2> 
   </div>
   <div style="margin-left: auto;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="200">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1000" height="500">
   </div>
 </div>
 <hr/>
