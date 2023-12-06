@@ -1,11 +1,14 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Firat, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">>
- </abc>
-</h2> 
+<div style="display: flex; align-items: center;">
+  <div>
+    <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+      I'm Firat, Full Stack Web Developer :computer:
+    </h2>
+  </div>
+  <div style="margin-left: auto;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+  </div>
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
 [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
