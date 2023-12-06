@@ -11,9 +11,9 @@
 <hr/>
 
 <section class="flexbox-example">
-  <div class="flex-container">
+  <div class="flex-container" style="display:flex;">
     <div class="flex-item"><h2>Hi there! </br> <h2>I'm Firat, Full Stack Web Developer :computer:</h2></div>
-        <div class="flex-item"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200"></div>
+    <div class="flex-item"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200"></div>
   </div>
 </section>
 
