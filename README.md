@@ -2,37 +2,36 @@
 
 I'm Firat, a professional -**self learner**- Full Stack .NET developer from Turkey.
 
-[![](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/firatbezir)
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/1120715711820603392)
-[![](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)]([https://www.reddit.com/user/Ra1nbow1](https://www.reddit.com/user/greemLeaf))
-[![](https://img.shields.io/badge/Quora-red)](https://www.quora.com/profile/F%C4%B1rat-Bezir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
+[![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
+[![Reddit](https://img.shields.io/badge/-Reddit-FFF?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/greemLeaf)
+[![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge)](https://www.quora.com/profile/F%C4%B1rat-Bezir)
 
 ### Languages
-[![Python](https://img.shields.io/badge/-Python-e6e321?&logo=Python&style=for-the-badge)](https://github.com/firatbezir)
-[![C#](https://img.shields.io/badge/-C%23-8A2BE2?&logo=C%20Sharp&logoColor=239120&style=for-the-badge)](https://github.com/firatbezir)
-[![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?&logo=Matlab&logoColor=0076A8&style=for-the-badge)](https://github.com/firatbezir)
-[![SQL](https://img.shields.io/badge/-SQL-218be6?&logo=MySQL&logoColor=eb8f3e&style=for-the-badge)](https://github.com/firatbezir)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?&logo=JavaScript&style=for-the-badge)](https://github.com/firatbezir)
+[![Python](https://img.shields.io/badge/-Python-e6e321?style=for-the-badge&logo=Python)](https://github.com/firatbezir)
+[![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=C%20Sharp&logoColor=239120)](https://github.com/firatbezir)
+[![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?style=for-the-badge&logo=Matlab&logoColor=0076A8)](https://github.com/firatbezir)
+[![SQL](https://img.shields.io/badge/-SQL-218be6?style=for-the-badge&logo=MySQL&logoColor=eb8f3e)](https://github.com/firatbezir)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
-
-[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?&logo=.NET&logoColor=512BD4&style=for-the-badge)](https://github.com/firatbezir)
-[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?&logo=.NET&logoColor=512BD4&style=for-the-badge)](https://github.com/firatbezir)
-[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?&logo=.NET&logoColor=512BD4&style=for-the-badge)](https://github.com/firatbezir)
+[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
+[![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
+[![CSS](https://img.shields.io/badge/-CSS-F0FFFF?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-F0FFFF?style=for-the-badge&logo=Bootstrap)](https://github.com/firatbezir)
+[![jQuery](https://img.shields.io/badge/-jQuery-FFF8DC?style=for-the-badge&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
+[![React](https://img.shields.io/badge/-React-FFF8DC?style=for-the-badge&logo=React)](https://github.com/firatbezir)
+[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
+[![Git](https://img.shields.io/badge/-Git-F0FFFF?style=for-the-badge&logo=Git)](https://github.com/firatbezir)
+[![Docker](https://img.shields.io/badge/-Docker-F0FFFF?style=for-the-badge&logo=Docker)](https://github.com/firatbezir)
+[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
+[![Sass](https://img.shields.io/badge/-Sass-F0FFFF?style=for-the-badge&logo=sass&logoColor=CC6699)](https://github.com/firatbezir)
 
-[![](https://img.shields.io/badge/-HTML-F0FFFF?&logo=html5&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-CSS-F0FFFF?&logo=css3&logoColor=1572B6&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Bootstrap-F0FFFF?&logo=Bootstrap&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-jQuery-FFF8DC?&logo=jQuery&logoColor=0769AD&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-React-FFF8DC?&logo=React&style=for-the-badge)](https://github.com/firatbezir)
-[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?&logo=Ajax&logoColor=0098E4&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Git-F0FFFF?&logo=Git&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Docker-F0FFFF?&logo=Docker&style=for-the-badge)](https://github.com/firatbezir)
-[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?&logo=Linux&logoColor=FCC624&style=for-the-badge)](https://github.com/firatbezir)
-[![](https://img.shields.io/badge/-Sass-F0FFFF?&logo=sass&logoColor=CC6699&style=for-the-badge)](https://github.com/firatbezir)
 
 
 
