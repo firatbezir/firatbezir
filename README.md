@@ -1,12 +1,4 @@
-<div>
-  <div align="right">
-  <img width="150" src="https://as2.ftcdn.net/v2/jpg/03/06/75/85/1000_F_306758527_37y3uqRcHMdWktv5KbXDFsIJveUAB614.jpg">
-</div>
-<div align="left">
-  ###  Hi there, <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
-</div>
-</div>
-
+###  Hi there, <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 I'm Firat, a professional -**self learner**- Full Stack .NET developer from Turkey.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
