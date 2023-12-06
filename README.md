@@ -2,10 +2,7 @@
   <div>
     <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
       I'm Firat, Full Stack Web Developer :computer:
-    </h2>
-    <div>
-      <img src="https://as2.ftcdn.net/v2/jpg/03/06/75/85/1000_F_306758527_37y3uqRcHMdWktv5KbXDFsIJveUAB614.jpg" width="300" height="200">
-    </div>
+    </h2> 
   </div>
   <div style="margin-left: auto;">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
