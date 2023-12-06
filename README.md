@@ -4,7 +4,7 @@
       I'm Firat, Full Stack Web Developer :computer:
     </h2>
     <div>
-      https://as2.ftcdn.net/v2/jpg/03/06/75/85/1000_F_306758527_37y3uqRcHMdWktv5KbXDFsIJveUAB614.jpg
+      <img src="https://as2.ftcdn.net/v2/jpg/03/06/75/85/1000_F_306758527_37y3uqRcHMdWktv5KbXDFsIJveUAB614.jpg">
     </div>
   </div>
   <div style="margin-left: auto;">
