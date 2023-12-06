@@ -10,6 +10,7 @@
 </div>
 <hr/>
 ### Here is how you can reach me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
 [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
