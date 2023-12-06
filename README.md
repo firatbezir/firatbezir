@@ -1,7 +1,12 @@
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
-  <p>I'm Firat, Full Stack Web Developer :computer:</p>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+<div style="display: flex; align-items: center;">
+  <div>
+    <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+      I'm Firat, Full Stack Web Developer :computer:
+    </h2>
+  </div>
+  <div style="margin-left: auto;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+  </div>
 </div>
 
 
