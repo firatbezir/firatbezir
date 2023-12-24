@@ -8,35 +8,36 @@
 
 ### Here is how you can reach me
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" height="20">](https://linkedin.com/in/firatbezir)
-[<img src="https://img.shields.io/badge/-Discord-yellowgreen?style=for-the-badge&logo=Discord" height="20">](https://discord.gg/1120715711820603392)
-[<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube" height="20">](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
-[<img src="https://img.shields.io/badge/-Reddit-lightblue?style=for-the-badge&logo=reddit" height="20">](https://www.reddit.com/user/greemLeaf)
-[<img src="https://img.shields.io/badge/Quora-red?style=for-the-badge" height="20">](https://www.quora.com/profile/F%C4%B1rat-Bezir)
+### Here is how you can reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&width="30")](https://linkedin.com/in/firatbezir)
+[![Discord](https://img.shields.io/badge/-Discord-yellowgreen?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
+[![Reddit](https://img.shields.io/badge/-Reddit-lightblue?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/greemLeaf)
+[![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge)](https://www.quora.com/profile/F%C4%B1rat-Bezir)
 
 ### Languages
-[<img src="https://img.shields.io/badge/-Python-e6e321?style=for-the-badge&logo=Python" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=C%20Sharp" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Matlab-CD5B45?style=for-the-badge&logo=Matlab" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-SQL-b6d982?style=for-the-badge&logo=MySQL" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript" height="20">](https://github.com/firatbezir)
+[![Python](https://img.shields.io/badge/-Python-e6e321?style=for-the-badge&logo=Python)](https://github.com/firatbezir)
+[![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=C%20Sharp&logoColor=239120)](https://github.com/firatbezir)
+[![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?style=for-the-badge&logo=Matlab&logoColor=0076A8)](https://github.com/firatbezir)
+[![SQL](https://img.shields.io/badge/-SQL-b6d982?style=for-the-badge&logo=MySQL&logoColor=eb8f3e)](https://github.com/firatbezir)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
-[<img src="https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-6f4dd6?style=for-the-badge&logo=.NET" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET" height="20">](https://github.com/firatbezir)
+[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-6f4dd6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
-[<img src="https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-CSS-F0FFFF?style=for-the-badge&logo=css3" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Bootstrap-F0FFFF?style=for-the-badge&logo=Bootstrap" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-jQuery-FFF8DC?style=for-the-badge&logo=jQuery" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-React-FFF8DC?style=for-the-badge&logo=React" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Ajax-FFB90F?style=for-the-badge&logo=Ajax" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Git-F0FFFF?style=for-the-badge&logo=Git" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Docker-F0FFFF?style=for-the-badge&logo=Docker" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Linux-F0FFFF?style=for-the-badge&logo=Linux" height="20">](https://github.com/firatbezir)
-[<img src="https://img.shields.io/badge/-Sass-F0FFFF?style=for-the-badge&logo=sass" height="20">](https://github.com/firatbezir)
+[![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
+[![CSS](https://img.shields.io/badge/-CSS-F0FFFF?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-F0FFFF?style=for-the-badge&logo=Bootstrap)](https://github.com/firatbezir)
+[![jQuery](https://img.shields.io/badge/-jQuery-FFF8DC?style=for-the-badge&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
+[![React](https://img.shields.io/badge/-React-FFF8DC?style=for-the-badge&logo=React)](https://github.com/firatbezir)
+[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
+[![Git](https://img.shields.io/badge/-Git-F0FFFF?style=for-the-badge&logo=Git)](https://github.com/firatbezir)
+[![Docker](https://img.shields.io/badge/-Docker-F0FFFF?style=for-the-badge&logo=Docker)](https://github.com/firatbezir)
+[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
+[![Sass](https://img.shields.io/badge/-Sass-F0FFFF?style=for-the-badge&logo=sass&logoColor=CC6699)](https://github.com/firatbezir)
 
 
 <a href="https://github.com/firatbezir">
