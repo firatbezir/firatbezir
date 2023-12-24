@@ -7,35 +7,35 @@
 </div>
 
 ### Here is how you can reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/firatbezir)](https://linkedin.com/in/firatbezir)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/1120715711820603392)](https://discord.gg/1120715711820603392)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&link=https://www.reddit.com/user/greemLeaf)](https://www.reddit.com/user/greemLeaf)
-[![Quora](https://img.shields.io/badge/Quora-red?style=for-the-badge&link=https://www.quora.com/profile/F%C4%B1rat-Bezir)](https://www.quora.com/profile/F%C4%B1rat-Bezir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/firatbezir)
+[![Discord](https://img.shields.io/badge/-Discord-FFF?style=social&logo=Discord&logoColor=white)](https://discord.gg/1120715711820603392)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=social&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=social&logo=reddit&logoColor=white)](https://www.reddit.com/user/greemLeaf)
+[![Quora](https://img.shields.io/badge/Quora-red?style=social&logo=Quora&logoColor=white)](https://www.quora.com/profile/F%C4%B1rat-Bezir)
 
 ### Languages
-[![Python](https://img.shields.io/badge/-Python-e6e321?style=for-the-badge&logo=Python&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=C%20Sharp&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?style=for-the-badge&logo=Matlab&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![SQL](https://img.shields.io/badge/-SQL-218be6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
+[![Python](https://img.shields.io/badge/-Python-e6e321?style=social&logo=Python&logoColor=white)](https://github.com/firatbezir)
+[![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=social&logo=C%20Sharp&logoColor=white)](https://github.com/firatbezir)
+[![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?style=social&logo=Matlab&logoColor=white)](https://github.com/firatbezir)
+[![SQL](https://img.shields.io/badge/-SQL-218be6?style=social&logo=MySQL&logoColor=white)](https://github.com/firatbezir)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=social&logo=JavaScript&logoColor=white)](https://github.com/firatbezir)
 
 ### Frameworks
-[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?style=for-the-badge&logo=.NET&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
+[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=social&logo=.NET&logoColor=white)](https://github.com/firatbezir)
+[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?style=social&logo=.NET&logoColor=white)](https://github.com/firatbezir)
+[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?style=social&logo=.NET&logoColor=white)](https://github.com/firatbezir)
 
 ### Technologies
-[![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![CSS](https://img.shields.io/badge/-CSS-F0FFFF?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-F0FFFF?style=for-the-badge&logo=Bootstrap&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![jQuery](https://img.shields.io/badge/-jQuery-FFF8DC?style=for-the-badge&logo=jQuery&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![React](https://img.shields.io/badge/-React-FFF8DC?style=for-the-badge&logo=React&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?style=for-the-badge&logo=Ajax&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Git](https://img.shields.io/badge/-Git-F0FFFF?style=for-the-badge&logo=Git&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Docker](https://img.shields.io/badge/-Docker-F0FFFF?style=for-the-badge&logo=Docker&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?style=for-the-badge&logo=Linux&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
-[![Sass](https://img.shields.io/badge/-Sass-F0FFFF?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/firatbezir)](https://github.com/firatbezir)
+[![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=social&logo=html5&logoColor=white)](https://github.com/firatbezir)
+[![CSS](https://img.shields.io/badge/-CSS-F0FFFF?style=social&logo=css3&logoColor=white)](https://github.com/firatbezir)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-F0FFFF?style=social&logo=Bootstrap&logoColor=white)](https://github.com/firatbezir)
+[![jQuery](https://img.shields.io/badge/-jQuery-FFF8DC?style=social&logo=jQuery&logoColor=white)](https://github.com/firatbezir)
+[![React](https://img.shields.io/badge/-React-FFF8DC?style=social&logo=React&logoColor=white)](https://github.com/firatbezir)
+[![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?style=social&logo=Ajax&logoColor=white)](https://github.com/firatbezir)
+[![Git](https://img.shields.io/badge/-Git-F0FFFF?style=social&logo=Git&logoColor=white)](https://github.com/firatbezir)
+[![Docker](https://img.shields.io/badge/-Docker-F0FFFF?style=social&logo=Docker&logoColor=white)](https://github.com/firatbezir)
+[![Linux](https://img.shields.io/badge/-Linux-F0FFFF?style=social&logo=Linux&logoColor=white)](https://github.com/firatbezir)
+[![Sass](https://img.shields.io/badge/-Sass-F0FFFF?style=social&logo=sass&logoColor=white)](https://github.com/firatbezir)
 
 
 <a href="https://github.com/firatbezir">
