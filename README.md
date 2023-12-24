@@ -8,6 +8,10 @@
 
 ### Here is how you can reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
+<a href="https://linkedin.com/in/firatbezir" style="display:inline-block; overflow:hidden; border-radius:10px; background-color: #0077B5; padding: 5px;">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width: 25px; height: auto; margin-right: 5px;">
+  <span style="font-size: 16px; vertical-align: middle;">LinkedIn</span>
+</a>
 [![Discord](https://img.shields.io/badge/-Discord-yellowgreen?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCNZltaZhNQa2IYBAC5smrMA)
 [![Reddit](https://img.shields.io/badge/-Reddit-lightblue?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/greemLeaf)
