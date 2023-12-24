@@ -21,9 +21,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
-[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-#6f4dd6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-#5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
 [![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
