@@ -28,9 +28,9 @@
 [![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
-[![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
-[![CSS](https://img.shields.io/badge/-CSS-F0FFFF?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-F0FFFF?style=for-the-badge&logo=Bootstrap)](https://github.com/firatbezir)
+[![HTML](https://img.shields.io/badge/-HTML-d7f5f5?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
+[![CSS](https://img.shields.io/badge/-CSS-c5eded?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-b9ebeb?style=for-the-badge&logo=Bootstrap)](https://github.com/firatbezir)
 [![jQuery](https://img.shields.io/badge/-jQuery-FFF8DC?style=for-the-badge&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
 [![React](https://img.shields.io/badge/-React-FFF8DC?style=for-the-badge&logo=React)](https://github.com/firatbezir)
 [![Ajax](https://img.shields.io/badge/-Ajax-FFB90F?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
