@@ -6,6 +6,12 @@
   </div> 
 </div>
 
+<style>
+  .badge {
+    border-radius: 10px; /* You can adjust the value to change the border-radius */
+  }
+</style>
+
 ### Here is how you can reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/firatbezir)
 [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=Discord)](https://discord.gg/1120715711820603392)
@@ -36,6 +42,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-F0FFFF?style=for-the-badge&logo=Docker)](https://github.com/firatbezir)
 [![Linux](https://img.shields.io/badge/-Linux-F0FFFF?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
 [![Sass](https://img.shields.io/badge/-Sass-F0FFFF?style=for-the-badge&logo=sass&logoColor=CC6699)](https://github.com/firatbezir)
+
 
 
 
