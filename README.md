@@ -17,7 +17,7 @@
 [![Python](https://img.shields.io/badge/-Python-e6e321?style=for-the-badge&logo=Python)](https://github.com/firatbezir)
 [![C#](https://img.shields.io/badge/-C%23-8A2BE2?style=for-the-badge&logo=C%20Sharp&logoColor=239120)](https://github.com/firatbezir)
 [![Matlab](https://img.shields.io/badge/-Matlab-CD5B45?style=for-the-badge&logo=Matlab&logoColor=0076A8)](https://github.com/firatbezir)
-[![SQL](https://img.shields.io/badge/-SQL-218be6?style=for-the-badge&logo=MySQL&logoColor=eb8f3e)](https://github.com/firatbezir)
+[![SQL](https://img.shields.io/badge/-SQL-b6d982?style=for-the-badge&logo=MySQL&logoColor=eb8f3e)](https://github.com/firatbezir)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
