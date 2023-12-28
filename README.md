@@ -36,7 +36,7 @@
 [![Ajax](https://img.shields.io/badge/-Ajax-a0dec8?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
 [![Git](https://img.shields.io/badge/-Git-90d4bc?style=for-the-badge&logo=Git)](https://github.com/firatbezir)
 [![Docker](https://img.shields.io/badge/-Docker-84cfb4?style=for-the-badge&logo=Docker)](https://github.com/firatbezir)
-[![Linux](https://img.shields.io/badge/-Linux-7accaf?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
+[![Linux](https://img.shields.io/badge/-Linux-1a5e54?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
 [![SignalR](https://img.shields.io/badge/-SignalR-244238?style=for-the-badge&logo=SignalR&logoColor=5ca1ad)](https://github.com/your-github-profile)
 
 
