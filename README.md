@@ -22,8 +22,8 @@
 
 ### Frameworks
 [![React](https://img.shields.io/badge/-React-1f3394?style=for-the-badge&logo=React)](https://github.com/firatbezir)
-[![ASP .NET CORE API](https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 [![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![ASP .NET CORE API](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
 [![HTML](https://img.shields.io/badge/-HTML-d7f5f5?style=for-the-badge&logo=html5)](https://github.com/firatbezir)
