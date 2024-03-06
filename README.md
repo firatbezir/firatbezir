@@ -21,8 +21,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F0FFFF?style=for-the-badge&logo=JavaScript)](https://github.com/firatbezir)
 
 ### Frameworks
-[![ASP Entity Framework CORE](https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-6f4dd6?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
-[![.NET CORE](https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
+[![React](https://img.shields.io/badge/-React-1f3394?style=for-the-badge&logo=React)](https://github.com/firatbezir)
+[![ASP .NET CORE API](https://img.shields.io/badge/-.NET%20CORE-a25ec4?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 [![ASP .NET CORE MVC](https://img.shields.io/badge/-ASP%20.NET%20CORE%20MVC-5990cf?style=for-the-badge&logo=.NET&logoColor=512BD4)](https://github.com/firatbezir)
 
 ### Technologies
@@ -30,8 +30,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-c5eded?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/firatbezir)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-b9ebeb?style=for-the-badge&logo=Bootstrap)](https://github.com/firatbezir)
 [![jQuery](https://img.shields.io/badge/-jQuery-a6dede?style=for-the-badge&logo=jQuery&logoColor=0769AD)](https://github.com/firatbezir)
-[![React](https://img.shields.io/badge/-React-1f3394?style=for-the-badge&logo=React)](https://github.com/firatbezir)
-[![Ajax](https://img.shields.io/badge/-Ajax-a0dec8?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
+[Ajax](https://img.shields.io/badge/-Ajax-a0dec8?style=for-the-badge&logo=Ajax&logoColor=0098E4)](https://github.com/firatbezir)
 [![Git](https://img.shields.io/badge/-Git-90d4bc?style=for-the-badge&logo=Git)](https://github.com/firatbezir)
 [![Docker](https://img.shields.io/badge/-Docker-84cfb4?style=for-the-badge&logo=Docker)](https://github.com/firatbezir)
 [![Linux](https://img.shields.io/badge/-Linux-1a5e54?style=for-the-badge&logo=Linux&logoColor=FCC624)](https://github.com/firatbezir)
