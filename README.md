@@ -49,6 +49,12 @@
 <a href="https://github.com/firatbezir">
   <img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firatbezir&theme=algolia"/>  
 </a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/firatbezir">
+    <img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firatbezir&theme=algolia"/>  
+  </a>
+</div>
+
 
 
 <br>
