@@ -38,7 +38,11 @@
 
 
 
-
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; background: linear-gradient(to right, #ff7e5f, #feb47b);">
+  <a href="https://github.com/firatbezir">
+    <img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firatbezir&theme=algolia"/>  
+  </a>
+</div>
 <a href="https://github.com/firatbezir">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=firatbezir&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
@@ -47,11 +51,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatbezir&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; background: linear-gradient(to right, #ff7e5f, #feb47b);">
-  <a href="https://github.com/firatbezir">
-    <img height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firatbezir&theme=algolia"/>  
-  </a>
-</div>
+
 
 
 
