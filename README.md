@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <div>
     <h2>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-      I'm Firat, Full Stack Web Developer :computer:
+      I'm Firat, a Developer :computer:
     </h2> 
   </div> 
 </div>
